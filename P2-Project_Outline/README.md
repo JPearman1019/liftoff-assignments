@@ -9,14 +9,14 @@ For this assignment, you will submit a high-level outline of your project. This 
 ### Overview
 My project will be to build a character creator for the Pathfinder RPG system. The user can login and go through the process of creating a character.
 ### Features
-Login
-Create Character
-Level Up Character
+- Login
+- Create Character
+- Level Up Character
 ### Technologies
-Javascript
-JQuery
-Database (Firebase or MySQL)
-SQL?
+- Javascript
+- JQuery
+- Database (Firebase or MySQL)
+- SQL?
 
 ### What I'll Have to Learn
 I need to figure out which database I'm going to use and how to access it.
