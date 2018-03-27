@@ -7,11 +7,17 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My project will be to build a character creator for the Pathfinder RPG system. The user can login and go through the process of creating a character.
 ### Features
-Include Features here
+Login
+Create Character
+Level Up Character
 ### Technologies
-Include Technologies here
+Javascript
+JQuery
+Database (Firebase or MySQL)
+SQL?
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+I need to figure out which database I'm going to use and how to access it.
+I would like to use css grid and flexbox.
