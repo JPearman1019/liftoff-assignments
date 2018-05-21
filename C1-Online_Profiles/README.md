@@ -7,10 +7,8 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-Provide a link to your GitHub account here.
-
+(https://github.com/JPearman1019)
 ### LinkedIn
-Provide a link to your LinkedIn account here.
-
+(https://www.linkedin.com/in/jonathan-pearman-05031272/)
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+(https://github.com/JPearman1019/liftoff-assignments/blob/master/C1-Online_Profiles/jonathan_pearman_resume.pdf)
